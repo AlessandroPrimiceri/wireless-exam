@@ -36,7 +36,6 @@
 - [x] The complexity of the substitution pattern used.
 - [ ] None of the other options.
 
-
 ## Signals and basics
 
 **In digital Communication system which type of waveforms are propagated in the channel?**
@@ -137,8 +136,12 @@ continuous estimation of the user clock bias which is time-varying.
 
 **why not csma/ cd in wifi**
 
-**authentication service - in the context of wireless networks**
-
+**Which of the following best defines an authentication service in the context of wireless networks?**
+- [ ] A service that encrypts data to ensure privacy during transmission.
+- [ ] A service that manages user permissions and access levels within the network.
+- [x] A service that verifies the identity of users or devices before granting access to network resources.
+- [ ] A service that restricts access to network resources based on user identity and predefined policies.
+- [ ] None of the other options.
 **CDMA networks - why is power control important?**
 
 **Purpose of DIFS in wifi networks**
